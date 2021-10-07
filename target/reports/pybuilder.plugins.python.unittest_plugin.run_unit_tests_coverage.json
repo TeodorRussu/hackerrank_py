@@ -1,0 +1,47 @@
+{
+  "module_names": [
+    {
+      "branches": 0,
+      "branches_missing": 0,
+      "branches_partial": 0,
+      "coverage": 100,
+      "lines": [],
+      "lines_not_covered": [],
+      "module": "lonely_integer",
+      "sum_lines": 0,
+      "sum_lines_not_covered": 0
+    },
+    {
+      "branches": 0,
+      "branches_missing": 0,
+      "branches_partial": 0,
+      "coverage": 0.0,
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "lines_not_covered": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "module": "lonely_integer.LonelyInteger",
+      "sum_lines": 8,
+      "sum_lines_not_covered": 8
+    }
+  ],
+  "overall_branch_coverage": 100,
+  "overall_branch_partial_coverage": 100,
+  "overall_coverage": 0.0
+}
